@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(111, 221, 111);
+
+
+}
+
+p {
+   font-size: 24px;
+}
+
+img, video {
+    max-width: 100%;
+    height: auto;
+}
